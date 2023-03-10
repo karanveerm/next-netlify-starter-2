@@ -11,7 +11,6 @@ export default function Home() {
 
       <main>
         <Header title="Karanveer Mohan is not a VC." />
-        <Header title="Nor is Henry Charles Elliott." />
       </main>
     </div>
   );
